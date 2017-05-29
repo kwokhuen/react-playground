@@ -1,0 +1,19 @@
+/*
+  position component relative to .container
+*/
+.container {
+  height: 100vh;
+  display: flex; /* or inline-flex */
+  justify-content: center;
+  align-items: center;
+}
+
+/* All form style here */
+.login-form {
+  width: 20vw;
+  padding: 10px;
+}
+
+.login-form-button {
+  width: 100%;
+}
